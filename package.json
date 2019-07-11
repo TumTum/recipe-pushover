@@ -1,0 +1,14 @@
+{
+  "id": "pushover",
+  "name": "PushOver",
+  "version": "1.0",
+  "description": "PushOver",
+  "main": "index.js",
+  "author": "Tobi Matthaiou",
+  "license": "MIT",
+  "repository": "https://github.com/TumTum/recipe-pushover",
+  "config": {
+    "serviceURL": "https://client.pushover.net",
+    "hasNotificationSound": true
+  }
+}
